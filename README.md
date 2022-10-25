@@ -12,6 +12,15 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Gutenberg Changes
+=================
+* Changed background color to a shade of yellow
+* Made paragraph font to be "Courier New" and added a 2em top and bottom margin
+* Made main header's (h1's) font size to be 300%, font to be "Courier New", and centered it
+* Made every other header's (h2-h6's) font size to be 150%, font to be bolded "Courier New", and centered it
+* Made it so that when user hovers over an image, the image will be flipped along the x-axis
+* Changed unvisited hyperlinks color to orange and visited hyperlink's color to pink
+
 License/Copyright
 =================
 
