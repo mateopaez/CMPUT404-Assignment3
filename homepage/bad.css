@@ -1,39 +1,35 @@
 body, html {
     height: 100%;
     width: 100%;
+    background-color: rgb(79, 0, 206);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: white;
 }
 
-.html {
-	background-color: #f7f7f7;
-}
-
-/* The banner is going to be at the top of the screen and a purple gradient */
 .banner {
     width: 100%;
     height: 25%;
     background: radial-gradient(
       circle,
-      rgb(109, 0, 160) 44%,
-      rgb(153, 0, 255) 86%
+      rgb(255, 0, 0) 44%,
+      rgb(151, 151, 151) 86%
     );
     display: flex;
     align-items: center;
     justify-content: flex-end;
 }
 
-/* Placing text in the middle of the banner */
 .bannerText {
     margin: 0 auto;
     font-size: 4em;
-    color: rgb(255, 255, 255);
-    font-family: 'Times New Roman';
+    color: black;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
-/* The sidebar menu, this is taken from w3schools sidebar tutorial */
 .sidebar {
     height: 100%;
     width: 13em; /* Set the width of the sidebar */
-    background-color: #575757; /* Black */
+    background-color: #09ff00; /* Black */
     float: right;
     margin-top: 1em;
     margin-right: 1.5em;
@@ -50,23 +46,23 @@ body, html {
 }
 
 .h1{
-	font-family: 'Times New Roman';
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .h2 {
-    font-family: 'Times New Roman';
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .h3 {
 	font-size:1em;
-	font-family: 'Times New Roman';
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .h4 {
 	font-size:1em;
-	font-family: 'Times New Roman';
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .p {
-    font-family: 'Times New Roman';
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
